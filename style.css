@@ -1,0 +1,111 @@
+.title-container h1 {
+    font-family: "Great Vibes", cursive;
+    font-size: 4rem;
+    color: #f59ac7 !important;
+}
+
+.title-container {
+    color: #dd7aab;
+}
+
+.gradient {
+    background-image: linear-gradient(to bottom right, #1A1A1D, #6A1E55);
+}
+
+.title-container p {
+    font-family: "Noto Sans Display", sans-serif;
+    font-size: small;
+}
+
+.aboutme-container h2 {
+    font-family: "Great Vibes", cursive;
+    color: azure !important;
+}
+
+.aboutme-container img {
+    border-radius: 50%;
+}
+
+.aboutme-container {
+    background-color: #1A1A1D;
+    color: azure;
+}
+
+.offerings-container {
+    background-color: #1A1A1D;
+}
+
+.offerings-container h2 {
+    font-family: "Great Vibes", cursive;
+    font-size: 3rem;
+    color: white !important;
+}
+
+.offerings-container p{
+    font-family: "Noto Sans Display", sans-serif;
+    color: white;
+}
+
+.offerings-container h3{
+    font-family: "Noto Sans Display", sans-serif;
+    color: white !important;
+    font-size: 1.5rem !important;
+}
+
+.icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: .75rem;
+  }
+
+.resume-container h2 {
+    font-family: "Great Vibes", cursive;
+    font-size: 3rem;
+    color: white !important;
+}
+
+.resume-container p {
+    color: antiquewhite;
+}
+
+.resume-container {
+    background-color: #1A1A1D;
+}
+
+.contact-container {
+    background-color: #1A1A1D;
+}
+
+.contact-container h2 {
+    color: azure !important;
+    font-family: "Great Vibes", cursive;
+    font-size: 3rem;
+}
+
+.contact-container p {
+    color: azure;
+}
+
+.btn {
+background-color: #6A1E55;
+border-color: #6A1E55;
+}
+
+.btn:hover {
+    background-color: #dd7aab;
+    border-color: #dd7aab;
+}
+
+.divider {
+    background-color: #1A1A1D;
+    display: flex;
+    justify-content: center;
+}
+
+.footer .container span{
+    color: azure !important;
+}
+
+.footer .bi {
+    fill: white
+}
